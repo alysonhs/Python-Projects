@@ -1,4 +1,4 @@
-# Python-Projects
+# Python Puzzle Game Board Project
 
 This program (puzzle.py) is for solving both word puzzles and math puzzles on a 2D game board. 
 
