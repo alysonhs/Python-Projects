@@ -1,3 +1,12 @@
+"""
+
+Please download the dictionary files to try on the word puzzle, 
+and the word puzzle and math puzzle in the Puzzle files to try out this puzzle game board
+
+"""
+
+
+
 def transpose(a):          #function to transpose
     return list(map(list, zip(*a)))
 
